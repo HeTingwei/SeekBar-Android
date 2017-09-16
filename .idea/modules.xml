@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SeekBarTest.iml" filepath="$PROJECT_DIR$/SeekBarTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seekbartest/seekbartest.iml" filepath="$PROJECT_DIR$/seekbartest/seekbartest.iml" />
+    </modules>
+  </component>
+</project>
